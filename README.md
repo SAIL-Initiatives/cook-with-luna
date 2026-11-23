@@ -36,8 +36,8 @@ Please review the ingredient [list](recipe.md)
 
 Email us at cookwithluna@proton.me if you have any questions about the ingredients, substitutes, etc. 
 
-<img width="1080" height="1350" alt="Faculty for Palestine email Nov 10, 2026" src="https://github.com/user-attachments/assets/aefe8077-4ca2-4ed3-9566-4ae82272872f" />
+<img width="1080"  alt="Faculty for Palestine email Nov 10, 2026" src="https://github.com/user-attachments/assets/aefe8077-4ca2-4ed3-9566-4ae82272872f" />
 
 
 
-<img width="999" height="578" alt="Screenshot 2026-10-22 at 11-31-15 Luna every org (requires landscape) - Google Slides" src="https://github.com/user-attachments/assets/53b2c961-6d2c-4b55-bd52-b2cb9061069f" />
+<img width="1080" alt="Screenshot 2026-10-22 at 11-31-15 Luna every org (requires landscape) - Google Slides" src="https://github.com/user-attachments/assets/53b2c961-6d2c-4b55-bd52-b2cb9061069f" />
