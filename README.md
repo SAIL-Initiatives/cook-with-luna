@@ -15,9 +15,10 @@ It's not just about learning to make a delicious, syrup-soaked semolina cake. It
 
 Because solidarity doesn't always begin with grand gestures. Sometimes, it begins with something as simple as coming together. ❤️
 
-🍰 5 days left! Have you secured your spot?
-
 Come for the baking, stay for the conversations and community. 🇵🇸
+
+🍰 Ready to register? Please make a donation to Gaza Soup Kitchen via [bit.ly/luna4gaza](every.org), a platform that charges zero administrative fees. 
+
 
 #Namoura 
 #CookAlongForPalestine 
@@ -27,8 +28,13 @@ Come for the baking, stay for the conversations and community. 🇵🇸
 
 ## Ingredient list
 
-Ready to cook? Please review the ingredient [list](recipe.md) and email us at cookwithluna@proton.me if you have any questions about the ingredient (substitutes), etc. 
+Ready to cook? 
 
+Please review the ingredient [list](recipe.md) 
+
+## Questions & Feedback?
+
+Email us at cookwithluna@proton.me if you have any questions about the ingredients, substitutes, etc. 
 
 <img width="1080" height="1350" alt="Faculty for Palestine email Nov 10, 2026" src="https://github.com/user-attachments/assets/aefe8077-4ca2-4ed3-9566-4ae82272872f" />
 
