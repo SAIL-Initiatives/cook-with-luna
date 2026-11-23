@@ -16,7 +16,7 @@ Because solidarity doesn't always begin with grand gestures. Sometimes, it begin
 
 Come for the baking, stay for the conversations and community. 🇵🇸
 
-🍰 Ready to register? Please make a donation to Gaza Soup Kitchen via [bit.ly/luna4gaza](every.org), a platform that charges zero administrative fees. 
+🍰 Ready to register? Please make a donation to Gaza Soup Kitchen via [every.org](https://bit.ly/luna4gaza]), a platform that charges zero administrative fees. 
 
 
 #Namoura 
