@@ -9,7 +9,7 @@ include:
 title: Cook with Luna
 markdown: GFM
 show_downloads: false
-theme: jekyll-theme-architect 
+theme: jekyll-theme-midnight 
 github:
   is_project_page: false
 
