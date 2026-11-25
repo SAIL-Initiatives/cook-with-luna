@@ -28,7 +28,7 @@ Come for the baking, stay for the conversations and community. 🇵🇸
 <br/>
 <br/>
 <br/>
-<br/>
+ 
 
 
 ## Ingredient list
@@ -37,6 +37,11 @@ Ready to cook?
 
 Please review the ingredient [list](recipe.md) 
 
+
+<br/>
+<br/>
+<br/>
+ 
 ## Questions & Feedback?
 
 Email us at cookwithluna@proton.me if you have any questions about the ingredients, substitutes, etc. 
@@ -48,5 +53,9 @@ Email us at cookwithluna@proton.me if you have any questions about the ingredien
 <img width="540" alt="Screenshot 2026-10-22 at 11-31-15 Luna every org (requires landscape) - Google Slides" src="https://github.com/user-attachments/assets/53b2c961-6d2c-4b55-bd52-b2cb9061069f" />
 
 
+<br/>
+<br/>
+<br/>
+ 
 
 <a href="https://mapmyvisitors.com/web/1c9op"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=1By7uMfeGG8iDZmbum8LdR3o3FRxBc4F_gVWcqkBtHI&cl=ffffff" /></a>
