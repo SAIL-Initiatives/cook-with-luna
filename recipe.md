@@ -5,4 +5,4 @@
 <br/>
 <img width="551" alt="Cook-along" src="https://github.com/user-attachments/assets/4a236fb0-b200-400c-ad5a-9d10ea90d3d3" />
 
-[Home](README)
+[Home](README.md)
